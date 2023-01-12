@@ -9,7 +9,7 @@
 .containerDefault-3TQ5YN:not(:first-of-type)::before,
 .membersGroup-2eiWxl.container-q97qHp:not(:first-of-type)>span:last-child::before {
     position: absolute;
-    font-size: 16pt;
+    font-size: 14pt;
     color: var(--channels-default);
 }
 
@@ -45,7 +45,7 @@
 .membersGroup-2eiWxl.container-q97qHp:not(:first-of-type)>span:last-child::before {
     content: "-----------------";
     display: block;
-    font-weight: 9;
+    font-weight: 7;
     top: 8px;
 }
 
