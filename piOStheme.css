@@ -44,7 +44,7 @@ User-definable variables: kebab-case
 {
     /* Set customisable colour scheme */
     --piOSaccenthue:  var(--accent-color, 0); /* default: 0 (red) */
-    --piOSaccent:     hsl(var(--piOSaccenthue), calc(var(--saturation-factor)*100%), 50%);
+    --piOSaccent:     hsl(var(--piOSaccenthue), calc(var(--saturation-factor)*150%), 50%);
     --piOSwhite:    white;
     --piOSlightgrey:lightgrey;
     --piOSgrey:     grey;
