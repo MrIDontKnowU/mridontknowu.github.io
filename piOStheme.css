@@ -50,8 +50,6 @@ User-definable variables: kebab-case
     --piOSgrey:     grey;
     --piOSblack:    black;
     
-    /* Set default fonts */
-    letter-spacing: -0.04rem;
 
     /* Borders */
 	--borderColor:          var(--piOSgrey);
