@@ -1,3 +1,6 @@
+#REMAKE WITHOUT FONT. CREDITS: Saltssaumure
+
+
 # SUPERHOT piOS Discord Theme
 [![GitHub downloads](https://img.shields.io/github/downloads/saltssaumure/pios-discord-theme/total?color=purple&label=GitHub%20downloads&style=flat-square)](https://github.com/Saltssaumure/pios-discord-theme/releases/latest "Latest release")
 ![Total size](https://img.shields.io/github/repo-size/saltssaumure/pios-discord-theme?style=flat-square "Total size")
